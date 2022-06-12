@@ -66,7 +66,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![GITHUB LOGO](o5.png)
 
 ## ACCURACY:
-![GITHUB LOGO](.png)
+![GITHUB LOGO](O7.png)
 
 ## PREDICT:
 ![GITHUB LOGO](o6.png)
